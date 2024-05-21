@@ -1,0 +1,5 @@
+- Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista (basicamente o que foi mencionado nos pontos extras da [[Competência II]]);
+- Apresentar uma ideia a ser definida e associada a argumentos que irão justificar o ponto de vista do candidato (após os exemplos, ponto final e uma frase como se fosse uma mini conclusão do parágrafo de argumentação. Inclusive, por isso é necessário ter os exemplos e o repertório);
+- Os argumentos devem ser pertinentes para que o texto seja coerente com o ponto de vista, a partir das informações apresentadas;
+- O texto deve ter progressão (teses apresentadas na introdução devem aparecer nos parágrafos de desenvolvimento);
+- Vale 200 pontos.

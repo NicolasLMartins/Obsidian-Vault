@@ -1,0 +1,4 @@
+-  Corretores não tem relação nenhuma, podem nem ser da mesma cidade;
+- Soma duas notas dos corretores e divide por 2;
+- Não pode haver discrepância de mais de 100 pontos;
+- Caso haja discrepância de mais de 100 pontos, monta-se uma banca para reavaliar qual corretor tem razão;
