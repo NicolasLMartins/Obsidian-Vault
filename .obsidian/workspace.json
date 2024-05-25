@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd815a89664fb13e",
+        "id": "752a082beab2c0c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e622f179e3b4f417",
+            "id": "f5142701a5d7aed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agentes.md",
+                "file": "Redação semana que vem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pedra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agentes.md",
+                "file": "Redação semana que vem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agentes.md",
+                "file": "Redação semana que vem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +122,21 @@
             }
           },
           {
-            "id": "92c50431b723f8d4",
+            "id": "60888ae6d9907f2b",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "ba4dec040e37c832",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redação semana que vem.md"
+              }
             }
           }
         ],
@@ -133,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,37 +161,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e622f179e3b4f417",
+  "active": "f5142701a5d7aed1",
   "lastOpenFiles": [
+    "Introdução.md",
+    "Redação semana que vem.md",
+    "Elementos de Coesão.md",
+    "Competência IV.md",
+    "Estrutura da redação.md",
+    "Competência II.md",
+    "Competência III.md",
+    "Atividade matemática.md",
+    "Atividade.md",
+    "Metonímia.md",
+    "Metáfora.md",
+    "Língua.md",
+    "Fala.md",
+    "Mimética.md",
+    "Linguagem.md",
     "README.md",
-    "README.md",
+    "Agentes.md",
     "temp",
     "repo",
-    "Redação semana que vem.md",
     "Redações.md",
     "202405201130.md",
     "Quais são os caminhos para a reconstrução.md",
     "Pasted image 20240520104212.png",
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
-    "Agentes.md",
-    "Elementos de Coesão.md",
     "Sem título.canvas",
-    "Introdução.md",
-    "Estrutura da redação.md",
     "Dissertação.md",
     "Narração.md",
     "Descrição.md",
     "Tipologia textual.md",
-    "Correção redação.md",
-    "Entrega redações.md",
-    "Competência V.md",
-    "Competência IV.md",
-    "Competência III.md",
-    "Competência II.md",
-    "Competência I.md",
-    "Tese I.md",
-    "Tese II.md",
-    "Curso Val.md",
-    "Tese.md"
+    "Correção redação.md"
   ]
 }

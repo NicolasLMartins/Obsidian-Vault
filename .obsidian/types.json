@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "grade": "number",
-    "state": "checkbox"
+    "state": "checkbox",
+    "estado": "text"
   }
 }
