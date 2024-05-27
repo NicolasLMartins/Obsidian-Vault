@@ -1,0 +1,1 @@
+Qualquer processo de comunicação.

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd815a89664fb13e",
+        "id": "48c7767550f5b487",
         "type": "tabs",
         "children": [
           {
-            "id": "e622f179e3b4f417",
+            "id": "e7152f0ffb996872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agentes.md",
-                "mode": "source",
+                "file": "Reações de oxirredução.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -66,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agentes.md",
+                "file": "Reações de oxirredução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agentes.md",
+                "file": "Reações de oxirredução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,10 +123,36 @@
             }
           },
           {
-            "id": "92c50431b723f8d4",
+            "id": "60888ae6d9907f2b",
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba4dec040e37c832",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reações de oxirredução.md"
+              }
+            }
+          },
+          {
+            "id": "7db7cf6e4d765d27",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "42f90ba0839c14bf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -133,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,40 +175,42 @@
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e622f179e3b4f417",
+  "active": "e7152f0ffb996872",
   "lastOpenFiles": [
+    "Reações de oxirredução.md",
+    "Redação semana que vem.md",
+    "Introdução.md",
+    "Elementos de Coesão.md",
+    "Competência IV.md",
+    "Estrutura da redação.md",
+    "Competência II.md",
+    "Competência III.md",
+    "Atividade matemática.md",
+    "Atividade.md",
+    "Metonímia.md",
+    "Metáfora.md",
+    "Língua.md",
+    "Fala.md",
+    "Mimética.md",
+    "Linguagem.md",
     "README.md",
-    "README.md",
+    "Agentes.md",
     "temp",
     "repo",
-    "Redação semana que vem.md",
     "Redações.md",
     "202405201130.md",
     "Quais são os caminhos para a reconstrução.md",
     "Pasted image 20240520104212.png",
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
-    "Agentes.md",
-    "Elementos de Coesão.md",
     "Sem título.canvas",
-    "Introdução.md",
-    "Estrutura da redação.md",
     "Dissertação.md",
     "Narração.md",
     "Descrição.md",
-    "Tipologia textual.md",
-    "Correção redação.md",
-    "Entrega redações.md",
-    "Competência V.md",
-    "Competência IV.md",
-    "Competência III.md",
-    "Competência II.md",
-    "Competência I.md",
-    "Tese I.md",
-    "Tese II.md",
-    "Curso Val.md",
-    "Tese.md"
+    "Tipologia textual.md"
   ]
 }

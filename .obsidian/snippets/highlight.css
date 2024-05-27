@@ -1,0 +1,11 @@
+
+.theme-dark {
+	--text-highlight-bg: #A13089;
+}
+
+.cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
+    color: #131313;
+    padding: 0 10px;
+    margin: 0 5px;
+    letter-spacing: 0.1em;
+}

@@ -1,0 +1,1 @@
+Idioma. Língua é [[Mimética]]; falamos português pois ouvimos pessoas falando desde pequenos e as imitamos.

@@ -5,5 +5,11 @@
   "obsidian-icon-folder",
   "tag-wrangler",
   "obsidian-mind-map",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "calendar",
+  "obsidian-dictionary-plugin",
+  "obsidian-admonition",
+  "templater-obsidian"
 ]
