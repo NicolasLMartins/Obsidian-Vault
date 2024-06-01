@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "48c7767550f5b487",
+        "id": "686dee6711647161",
         "type": "tabs",
         "children": [
           {
-            "id": "e7152f0ffb996872",
+            "id": "170bfad4554d43bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reações de oxirredução.md",
-                "mode": "preview",
+                "file": "Aumento de casos de pedofilia no Brasil.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reações de oxirredução.md",
+                "file": "Aumento de casos de pedofilia no Brasil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reações de oxirredução.md",
+                "file": "Aumento de casos de pedofilia no Brasil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reações de oxirredução.md"
+                "file": "Aumento de casos de pedofilia no Brasil.md"
               }
             }
           },
@@ -161,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +177,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7152f0ffb996872",
+  "active": "170bfad4554d43bf",
   "lastOpenFiles": [
+    "Tipos de introdução.md",
+    "Aumento de casos de pedofilia no Brasil.md",
+    "Meio técnico-científico internacional.md",
     "Reações de oxirredução.md",
     "Redação semana que vem.md",
     "Introdução.md",
@@ -200,7 +200,6 @@
     "Linguagem.md",
     "README.md",
     "Agentes.md",
-    "Agentes.md",
     "temp",
     "repo",
     "Redações.md",
@@ -209,9 +208,6 @@
     "Pasted image 20240520104212.png",
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
     "Sem título.canvas",
-    "Dissertação.md",
-    "Narração.md",
-    "Descrição.md",
-    "Tipologia textual.md"
+    "Dissertação.md"
   ]
 }

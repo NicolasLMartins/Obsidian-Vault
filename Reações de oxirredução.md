@@ -18,7 +18,7 @@ Agente oxidante: $O_{2}$
 
 Obs: O agente sempre será representado pelos reagentes de uma reação.
 
-b)$C^{+2}O^{-2} + Fe^{+6 = +3 \times 2}_{2}O^{-6 = -2 \times 3}_{3} \to 2Fe^{+2}O^{-2} + C^{+4}O_{2}^{-4(-2 \times 2)}$ $^{+4-4=0}$
+b) $C^{+2}O^{-2} + Fe^{+6 = +3 \times 2}_{2}O^{-6 = -2 \times 3}_{3} \to 2Fe^{+2}O^{-2} + C^{+4}O_{2}^{-4(-2 \times 2)}$ $^{+4-4=0}$
 
 Oxidação: $asd$
 Redução: $Fe^{+3}_{2} \to 2Fe^{+2}$

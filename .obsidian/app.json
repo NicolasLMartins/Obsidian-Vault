@@ -2,5 +2,8 @@
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "source",
   "showIndentGuide": true,
-  "useTab": false
+  "useTab": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true
 }
