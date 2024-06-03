@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "686dee6711647161",
+        "id": "33ed6c77b10ccfc8",
         "type": "tabs",
         "children": [
           {
-            "id": "170bfad4554d43bf",
+            "id": "94fe1317acda93af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aumento de casos de pedofilia no Brasil.md",
+                "file": "Célula eletroquímica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d90dc964fd3cea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meio técnico-científico internacional.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f8ed9272422e803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economia global.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aumento de casos de pedofilia no Brasil.md",
+                "file": "Economia global.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aumento de casos de pedofilia no Brasil.md",
+                "file": "Economia global.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aumento de casos de pedofilia no Brasil.md"
+                "file": "Economia global.md"
               }
             }
           },
@@ -177,13 +204,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "170bfad4554d43bf",
+  "active": "8f8ed9272422e803",
   "lastOpenFiles": [
-    "Tipos de introdução.md",
-    "Aumento de casos de pedofilia no Brasil.md",
     "Meio técnico-científico internacional.md",
-    "Reações de oxirredução.md",
+    "Economia global.md",
+    "Célula vegetal.md",
+    "Célula eletroquímica.md",
+    "IMG_20240603_093353.jpg",
+    "IMG_20240603_093351.jpg",
+    "IMG_20240603_083519.jpg",
+    "Contracultura.md",
+    "IMG_20240603_083537.jpg",
+    "IMG_20240603_083526.jpg",
+    "Aumento de casos de pedofilia no Brasil.md",
+    "Redação quarta feira.md",
     "Redação semana que vem.md",
+    "Tipos de introdução.md",
+    "Reações de oxirredução.md",
     "Introdução.md",
     "Elementos de Coesão.md",
     "Competência IV.md",
@@ -202,12 +239,7 @@
     "Agentes.md",
     "temp",
     "repo",
-    "Redações.md",
-    "202405201130.md",
-    "Quais são os caminhos para a reconstrução.md",
     "Pasted image 20240520104212.png",
-    "Cultura e sociedade nas décadas de 1950 e 1960.md",
-    "Sem título.canvas",
-    "Dissertação.md"
+    "Sem título.canvas"
   ]
 }
