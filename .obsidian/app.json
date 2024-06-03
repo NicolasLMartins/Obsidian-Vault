@@ -4,6 +4,6 @@
   "showIndentGuide": true,
   "useTab": false,
   "strictLineBreaks": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "showUnsupportedFiles": true
 }

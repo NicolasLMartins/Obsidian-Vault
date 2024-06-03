@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Correção redação.md",
+                "file": "Aumento de casos de pedofilia no Brasil.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb31217f06a606f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redações.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Correção redação.md",
+            "file": "Redações.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Correção redação.md",
+            "file": "Redações.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Correção redação.md"
+            "file": "Redações.md"
           }
         }
       },
@@ -126,12 +140,22 @@
           "type": "git-view",
           "state": {}
         }
+      },
+      {
+        "id": "62697e47092dda8e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -144,15 +168,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "07c7235e2dfec0e3",
+  "active": "bb31217f06a606f6",
   "lastOpenFiles": [
+    "Redação quarta feira.md",
+    "Redações.md",
+    "Redação semana que vem.md",
+    "Aumento de casos de pedofilia no Brasil.md",
+    "Correção redação.md",
     "Reações de oxirredução.md",
     "Meio técnico-científico internacional.md",
-    "Aumento de casos de pedofilia no Brasil.md",
     "/Reações de oxirredução.md",
     "/Meio técnico-científico internacional.md",
-    "/Aumento de casos de pedofilia no Brasil.md",
-    "Correção redação.md",
-    "Redação semana que vem.md"
+    "/Aumento de casos de pedofilia no Brasil.md"
   ]
 }
