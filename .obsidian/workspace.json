@@ -37,17 +37,27 @@
             "id": "8f8ed9272422e803",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG_20240603_083519.jpg"
+              }
+            }
+          },
+          {
+            "id": "7a0627cc608aaa04",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia global.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia global.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia global.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia global.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -204,18 +214,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f8ed9272422e803",
+  "active": "7a0627cc608aaa04",
   "lastOpenFiles": [
-    "Meio técnico-científico internacional.md",
-    "Economia global.md",
-    "Célula vegetal.md",
-    "Célula eletroquímica.md",
-    "IMG_20240603_093353.jpg",
-    "IMG_20240603_093351.jpg",
     "IMG_20240603_083519.jpg",
-    "Contracultura.md",
+    "Untitled.md",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
+    "IMG_20240603_093351.jpg",
+    "IMG_20240603_093353.jpg",
+    "Célula vegetal.md",
+    "Célula eletroquímica.md",
+    "Economia global.md",
+    "Meio técnico-científico internacional.md",
+    "Contracultura.md",
     "Aumento de casos de pedofilia no Brasil.md",
     "Redação quarta feira.md",
     "Redação semana que vem.md",
@@ -235,8 +246,6 @@
     "Fala.md",
     "Mimética.md",
     "Linguagem.md",
-    "README.md",
-    "Agentes.md",
     "temp",
     "repo",
     "Pasted image 20240520104212.png",
