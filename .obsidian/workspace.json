@@ -4,60 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "33ed6c77b10ccfc8",
+        "id": "86971664020ddee4",
         "type": "tabs",
         "children": [
           {
-            "id": "94fe1317acda93af",
+            "id": "11efab62d0cc1853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Célula eletroquímica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d90dc964fd3cea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meio técnico-científico internacional.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f8ed9272422e803",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMG_20240603_083519.jpg"
-              }
-            }
-          },
-          {
-            "id": "7a0627cc608aaa04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Redação quarta feira.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,13 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Redação quarta feira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Redação quarta feira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Redação quarta feira.md"
               }
             }
           },
@@ -192,11 +155,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,22 +178,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a0627cc608aaa04",
+  "active": "11efab62d0cc1853",
   "lastOpenFiles": [
+    "Redação semana que vem.md",
+    "Redação quarta feira.md",
+    "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
+    "Economia global.md",
+    "Célula vegetal.md",
     "IMG_20240603_083519.jpg",
-    "Untitled.md",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
     "IMG_20240603_093351.jpg",
     "IMG_20240603_093353.jpg",
-    "Célula vegetal.md",
     "Célula eletroquímica.md",
-    "Economia global.md",
     "Meio técnico-científico internacional.md",
     "Contracultura.md",
     "Aumento de casos de pedofilia no Brasil.md",
-    "Redação quarta feira.md",
-    "Redação semana que vem.md",
     "Tipos de introdução.md",
     "Reações de oxirredução.md",
     "Introdução.md",
