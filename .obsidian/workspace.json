@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11efab62d0cc1853",
+            "id": "15977ab54575a4e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação quarta feira.md",
-                "mode": "source",
+                "file": "Diagrama de Ishikawa (Espinha de Peixe).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d63df77bf6a3989b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atividade plano de ação.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redação quarta feira.md",
+                "file": "Atividade plano de ação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redação quarta feira.md",
+                "file": "Atividade plano de ação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redação quarta feira.md"
+                "file": "Atividade plano de ação.md"
               }
             }
           },
@@ -155,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -178,10 +193,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11efab62d0cc1853",
+  "active": "d63df77bf6a3989b",
   "lastOpenFiles": [
-    "Aumento de casos de pedofilia no Brasil.md",
+    "Diagrama de Ishikawa (Espinha de Peixe).md",
     "Redação quarta feira.md",
+    "Atividades de espanhol.md",
+    "Atividade plano de ação.md",
+    "Quais são os caminhos para a reconstrução.md",
+    "Cultura e sociedade nas décadas de 1950 e 1960.md",
+    "Atividade português.md",
+    "Célula eletroquímica.md",
+    "Meio técnico-científico internacional.md",
+    "Mimética.md",
+    "Aumento de casos de pedofilia no Brasil.md",
     "Redação semana que vem.md",
     "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
     "Economia global.md",
@@ -191,8 +215,6 @@
     "IMG_20240603_083526.jpg",
     "IMG_20240603_093351.jpg",
     "IMG_20240603_093353.jpg",
-    "Célula eletroquímica.md",
-    "Meio técnico-científico internacional.md",
     "Contracultura.md",
     "Tipos de introdução.md",
     "Reações de oxirredução.md",
@@ -203,13 +225,7 @@
     "Competência II.md",
     "Competência III.md",
     "Atividade matemática.md",
-    "Atividade.md",
     "Metonímia.md",
-    "Metáfora.md",
-    "Língua.md",
-    "Fala.md",
-    "Mimética.md",
-    "Linguagem.md",
     "temp",
     "repo",
     "Pasted image 20240520104212.png",
