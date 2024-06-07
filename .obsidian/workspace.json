@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d63df77bf6a3989b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atividade plano de ação.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividade plano de ação.md",
+                "file": "Diagrama de Ishikawa (Espinha de Peixe).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atividade plano de ação.md",
+                "file": "Diagrama de Ishikawa (Espinha de Peixe).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atividade plano de ação.md"
+                "file": "Diagrama de Ishikawa (Espinha de Peixe).md"
               }
             }
           },
@@ -193,12 +179,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d63df77bf6a3989b",
+  "active": "15977ab54575a4e1",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Atividade plano de ação.md",
     "Diagrama de Ishikawa (Espinha de Peixe).md",
     "Redação quarta feira.md",
     "Atividades de espanhol.md",
-    "Atividade plano de ação.md",
     "Quais são os caminhos para a reconstrução.md",
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
     "Atividade português.md",
@@ -225,7 +212,6 @@
     "Competência II.md",
     "Competência III.md",
     "Atividade matemática.md",
-    "Metonímia.md",
     "temp",
     "repo",
     "Pasted image 20240520104212.png",
