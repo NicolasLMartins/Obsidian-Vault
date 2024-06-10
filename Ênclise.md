@@ -1,0 +1,1 @@
+Na dúvida, se aplica ênclise (pronome oblíquo átono ao final do verbo). Para não ocorrer ênclise, deve existir uma palavra que atraia o pronome para a frente do verbo ([próclise](Próclise))

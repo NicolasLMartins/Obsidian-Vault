@@ -1,0 +1,16 @@
+# Colocação pronominal próclise:
+- ## Deve ocorrer obrigatoriamente nos seguintes casos:
+    - Verbos transformados diretamente por advérbios antepostos a eles.
+    - Ex1: Traições <mark style="background: #BBFABBA6;">nunca</mark> <u>me</u> surpreenderam.
+    - Ex2: <mark style="background: #BBFABBA6;">Aqui</mark> <u>vos</u> trago respostas do povo.
+    - Ex3: <mark style="background: #BBFABBA6;">Não</mark> <u>me</u> deixaram entrar na festa.<br><br>
+- ## Deve-se usar em orações iniciadas por pronomes **indefinidos** ou **demonstrativos**:
+    - Ex1: <mark style="background: #BBFABBA6;">Aquilo</mark> <u>lhe</u> deixava muito transtornado.
+    - Ex2: <mark style="background: #BBFABBA6;">Muitos</mark> <u>me</u> disseram a verdade.
+    - Ex3: <mark style="background: #BBFABBA6;">Todos</mark> <u>te</u> disseram a verdade.<br><br>
+- ## Com verbo no <mark style="background: #FF5582A6;">gerúndio</mark> precedido da preposição <u><strong>em</strong></u>:
+    - Ex1:
+    - Ex2:
+    - Ex3:<br><br>
+- ## Verbo infinitivo pessoal (flexionado ou não) precedido de preposição:
+    - Ex: Suas intenções <mark style="background: #BBFABBA6;">para</mark> <u>nós</u>.

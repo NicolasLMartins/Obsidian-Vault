@@ -6,7 +6,11 @@
 .cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
     color: #131313;
     padding: 0 10px;
-    margin: 0 5px;
-    letter-spacing: 0.1em;
-    border-radius: 5px;
+    letter-spacing: 0.05em;
+    #border-radius: 20px 5px 20px 5px;
+}
+
+.cm-s-obsidian span.cm-highlight {
+	#color: #fff !important;
+	transform: skew(10deg);
 }
