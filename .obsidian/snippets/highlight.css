@@ -7,10 +7,5 @@
     color: #131313;
     padding: 0 10px;
     letter-spacing: 0.05em;
-    #border-radius: 20px 5px 20px 5px;
-}
-
-.cm-s-obsidian span.cm-highlight {
-	#color: #fff !important;
-	transform: skew(10deg);
+    border-radius: 20px 5px 20px 5px
 }

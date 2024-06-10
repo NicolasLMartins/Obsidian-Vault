@@ -8,28 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "041526dfd9f6dc3b",
+            "id": "24aa6a099a89bcfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Mesóclise.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43d41a8168ea3dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Próclise.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled.md",
+                "staged": false
               }
             }
           }
@@ -83,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -100,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mesóclise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mesóclise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mesóclise.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,12 +149,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,14 +171,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "041526dfd9f6dc3b",
+  "active": "24aa6a099a89bcfd",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "Regime militar (1964 -1985).md",
     "Próclise.md",
     "Mesóclise.md",
+    "Untitled 1.md",
     "Colocação pronominal.md",
     "Ênclise.md",
     "Diagrama de Ishikawa (Espinha de Peixe).md",
-    "Untitled Kanban.md",
     "Atividade plano de ação.md",
     "Redação quarta feira.md",
     "Atividades de espanhol.md",
@@ -222,9 +204,6 @@
     "Contracultura.md",
     "Tipos de introdução.md",
     "Reações de oxirredução.md",
-    "Introdução.md",
-    "Elementos de Coesão.md",
-    "Competência IV.md",
     "temp",
     "repo",
     "Pasted image 20240520104212.png",
