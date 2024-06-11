@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Célula eletroquímica.md",
+                "file": "Regime militar (1964 -1985).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "861ac6318e5bba33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classificação econômica dos países.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Célula eletroquímica.md",
+                "file": "Classificação econômica dos países.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Célula eletroquímica.md",
+                "file": "Classificação econômica dos países.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Célula eletroquímica.md"
+                "file": "Classificação econômica dos países.md"
               }
             }
           },
@@ -159,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +192,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24aa6a099a89bcfd",
+  "active": "861ac6318e5bba33",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "Untitled.md",
     "Regime militar (1964 -1985).md",
+    "Classificação econômica dos países.md",
+    "Regime.md",
+    "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
+    "Célula eletroquímica.md",
+    "Untitled Kanban.md",
     "Próclise.md",
     "Mesóclise.md",
     "Untitled 1.md",
@@ -194,12 +212,10 @@
     "Quais são os caminhos para a reconstrução.md",
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
     "Atividade português.md",
-    "Célula eletroquímica.md",
     "Meio técnico-científico internacional.md",
     "Mimética.md",
     "Aumento de casos de pedofilia no Brasil.md",
     "Redação semana que vem.md",
-    "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
     "Economia global.md",
     "Célula vegetal.md",
     "IMG_20240603_083519.jpg",
@@ -209,7 +225,6 @@
     "IMG_20240603_093353.jpg",
     "Contracultura.md",
     "Tipos de introdução.md",
-    "Reações de oxirredução.md",
     "temp",
     "repo",
     "Pasted image 20240520104212.png",
