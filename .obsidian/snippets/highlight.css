@@ -1,11 +1,11 @@
 
 .theme-dark {
-	--text-highlight-bg: #A13089;
+	//--text-highlight-bg: #A13089;
+	--text-highlight-bg: #ff5582a6;
 }
 
-.cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
+.cm-s-obsidian span.cm-highlight, .markdown-rendered mark:has(.math-inline) {
     color: #131313;
-    padding: 0 10px;
-    letter-spacing: 0.05em;
-    border-radius: 20px 5px 20px 5px
+    padding: 3px 10px;
+    border-radius: 20px 5px 20px 5px;
 }

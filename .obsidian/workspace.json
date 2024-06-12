@@ -4,37 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "86971664020ddee4",
+        "id": "561572828c6120c5",
         "type": "tabs",
         "children": [
           {
-            "id": "24aa6a099a89bcfd",
+            "id": "872ca2a184ffc196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regime militar (1964 -1985).md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "861ac6318e5bba33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classificação econômica dos países.md",
+                "file": "Potencial do eletrodo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "bd79f948f1298253"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "2826e9cd800bd218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1deabce05219a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Potencial do eletrodo.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "bd79f948f1298253"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classificação econômica dos países.md",
+                "file": "Potencial do eletrodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classificação econômica dos países.md",
+                "file": "Potencial do eletrodo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classificação econômica dos países.md"
+                "file": "Potencial do eletrodo.md"
               }
             }
           },
@@ -192,10 +200,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "861ac6318e5bba33",
+  "active": "872ca2a184ffc196",
   "lastOpenFiles": [
-    "Regime militar (1964 -1985).md",
+    "Potencial do eletrodo.md",
+    "Blocos econômicos.md",
+    "OmniWear (atividade de português).md",
     "Classificação econômica dos países.md",
+    "Regime militar (1964 -1985).md",
     "Regime.md",
     "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
     "Célula eletroquímica.md",
@@ -217,14 +228,11 @@
     "Aumento de casos de pedofilia no Brasil.md",
     "Redação semana que vem.md",
     "Economia global.md",
-    "Célula vegetal.md",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
     "IMG_20240603_093351.jpg",
     "IMG_20240603_093353.jpg",
-    "Contracultura.md",
-    "Tipos de introdução.md",
     "temp",
     "repo",
     "Pasted image 20240520104212.png",
