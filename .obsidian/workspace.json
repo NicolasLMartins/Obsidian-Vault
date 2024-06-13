@@ -8,38 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6313cc023c387f49",
+            "id": "c880c0c50154be6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partes da planta.md",
+                "file": "Lengua española.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "ac4b69bec6003a50"
+            "group": "342838178bd9e41c"
           }
         ]
       },
       {
-        "id": "c7be40cf212b0020",
+        "id": "ef59b67e44ccfd36",
         "type": "tabs",
         "children": [
           {
-            "id": "d1be71db53712575",
+            "id": "c58142829517902d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partes da planta.md",
-                "mode": "preview",
+                "file": "Lengua española.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "ac4b69bec6003a50"
+            "group": "342838178bd9e41c"
           }
         ]
       }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partes da planta.md",
+                "file": "Lengua española.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partes da planta.md",
+                "file": "Lengua española.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partes da planta.md"
+                "file": "Lengua española.md"
               }
             }
           },
@@ -200,8 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1be71db53712575",
+  "active": "c880c0c50154be6e",
   "lastOpenFiles": [
+    "Quais são os caminhos para a reconstrução.md",
+    "Lengua española.md",
+    "Cultura e sociedade nas décadas de 1950 e 1960.md",
     "Partes da planta.md",
     "Untitled 1.md",
     "Potencial do eletrodo.md",
@@ -221,13 +224,10 @@
     "Atividade plano de ação.md",
     "Redação quarta feira.md",
     "Atividades de espanhol.md",
-    "Quais são os caminhos para a reconstrução.md",
-    "Cultura e sociedade nas décadas de 1950 e 1960.md",
     "Atividade português.md",
     "Meio técnico-científico internacional.md",
     "Mimética.md",
     "Aumento de casos de pedofilia no Brasil.md",
-    "Redação semana que vem.md",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
