@@ -8,38 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "872ca2a184ffc196",
+            "id": "6313cc023c387f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potencial do eletrodo.md",
+                "file": "Partes da planta.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "bd79f948f1298253"
+            "group": "ac4b69bec6003a50"
           }
         ]
       },
       {
-        "id": "2826e9cd800bd218",
+        "id": "c7be40cf212b0020",
         "type": "tabs",
         "children": [
           {
-            "id": "d1deabce05219a3f",
+            "id": "d1be71db53712575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potencial do eletrodo.md",
+                "file": "Partes da planta.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "bd79f948f1298253"
+            "group": "ac4b69bec6003a50"
           }
         ]
       }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Potencial do eletrodo.md",
+                "file": "Partes da planta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Potencial do eletrodo.md",
+                "file": "Partes da planta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Potencial do eletrodo.md"
+                "file": "Partes da planta.md"
               }
             }
           },
@@ -200,8 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "872ca2a184ffc196",
+  "active": "d1be71db53712575",
   "lastOpenFiles": [
+    "Partes da planta.md",
+    "Untitled 1.md",
     "Potencial do eletrodo.md",
     "Blocos econômicos.md",
     "OmniWear (atividade de português).md",
@@ -213,7 +215,6 @@
     "Untitled Kanban.md",
     "Próclise.md",
     "Mesóclise.md",
-    "Untitled 1.md",
     "Colocação pronominal.md",
     "Ênclise.md",
     "Diagrama de Ishikawa (Espinha de Peixe).md",
@@ -227,7 +228,6 @@
     "Mimética.md",
     "Aumento de casos de pedofilia no Brasil.md",
     "Redação semana que vem.md",
-    "Economia global.md",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
