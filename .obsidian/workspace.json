@@ -13,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lengua española.md",
-                "mode": "source",
+                "file": "Kodak.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "342838178bd9e41c"
-          }
-        ]
-      },
-      {
-        "id": "ef59b67e44ccfd36",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c58142829517902d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lengua española.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "342838178bd9e41c"
+            }
           }
         ]
       }
@@ -108,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lengua española.md",
+                "file": "Kodak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lengua española.md",
+                "file": "Kodak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lengua española.md"
+                "file": "Kodak.md"
               }
             }
           },
@@ -202,8 +181,9 @@
   },
   "active": "c880c0c50154be6e",
   "lastOpenFiles": [
-    "Quais são os caminhos para a reconstrução.md",
     "Lengua española.md",
+    "Kodak.md",
+    "Quais são os caminhos para a reconstrução.md",
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
     "Partes da planta.md",
     "Untitled 1.md",
@@ -227,7 +207,6 @@
     "Atividade português.md",
     "Meio técnico-científico internacional.md",
     "Mimética.md",
-    "Aumento de casos de pedofilia no Brasil.md",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
