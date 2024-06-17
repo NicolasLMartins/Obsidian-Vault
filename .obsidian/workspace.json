@@ -19,6 +19,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f4cbce2330e362f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os problemas enfrentados pelos idosos na sociedade brasileira.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41ea9239fb0fdc7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oportunidade para os jovens no mercado de trabalho.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -181,8 +207,10 @@
   },
   "active": "40b18c6a16cd5d76",
   "lastOpenFiles": [
-    "Kodak.md",
+    "Oportunidade para os jovens no mercado de trabalho.md",
+    "Os problemas enfrentados pelos idosos na sociedade brasileira.md",
     "Jorge Amado.md",
+    "Kodak.md",
     "Lengua española.md",
     "Quais são os caminhos para a reconstrução.md",
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
@@ -205,8 +233,6 @@
     "Atividade plano de ação.md",
     "Redação quarta feira.md",
     "Atividades de espanhol.md",
-    "Atividade português.md",
-    "Meio técnico-científico internacional.md",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
