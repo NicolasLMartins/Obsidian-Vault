@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "561572828c6120c5",
+        "id": "ecaba303731a691a",
         "type": "tabs",
         "children": [
           {
-            "id": "40b18c6a16cd5d76",
+            "id": "1208a25b4b2f4efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jorge Amado.md",
+                "file": "Potencial do eletrodo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2f4cbce2330e362f",
+            "id": "958ec7f747620508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os problemas enfrentados pelos idosos na sociedade brasileira.md",
+                "file": "Racismo ambiental.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,19 +34,20 @@
             }
           },
           {
-            "id": "41ea9239fb0fdc7e",
+            "id": "f6e138ab8433daa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oportunidade para os jovens no mercado de trabalho.md",
+                "file": "Blocos econômicos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jorge Amado.md",
+                "file": "Blocos econômicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jorge Amado.md",
+                "file": "Blocos econômicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jorge Amado.md"
+                "file": "Blocos econômicos.md"
               }
             }
           },
@@ -200,13 +200,19 @@
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40b18c6a16cd5d76",
+  "active": "f6e138ab8433daa0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Racismo ambiental.md",
+    "Potencial do eletrodo.md",
+    "Célula eletroquímica.md",
+    "Regime militar (1964 -1985).md",
+    "Regime militar.md",
     "Oportunidade para os jovens no mercado de trabalho.md",
     "Os problemas enfrentados pelos idosos na sociedade brasileira.md",
     "Jorge Amado.md",
@@ -216,23 +222,17 @@
     "Cultura e sociedade nas décadas de 1950 e 1960.md",
     "Partes da planta.md",
     "Untitled 1.md",
-    "Potencial do eletrodo.md",
     "Blocos econômicos.md",
     "OmniWear (atividade de português).md",
     "Classificação econômica dos países.md",
-    "Regime militar (1964 -1985).md",
     "Regime.md",
     "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
-    "Célula eletroquímica.md",
     "Untitled Kanban.md",
     "Próclise.md",
     "Mesóclise.md",
     "Colocação pronominal.md",
     "Ênclise.md",
     "Diagrama de Ishikawa (Espinha de Peixe).md",
-    "Atividade plano de ação.md",
-    "Redação quarta feira.md",
-    "Atividades de espanhol.md",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",

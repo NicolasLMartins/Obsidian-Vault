@@ -1,6 +1,5 @@
 [
   "dataview",
-  "table-editor-obsidian",
   "obsidian-git",
   "obsidian-icon-folder",
   "tag-wrangler",
@@ -11,5 +10,6 @@
   "calendar",
   "obsidian-dictionary-plugin",
   "obsidian-admonition",
-  "templater-obsidian"
+  "templater-obsidian",
+  "table-editor-obsidian"
 ]

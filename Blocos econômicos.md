@@ -42,3 +42,36 @@
         - Euro:
             - 1999 $\Rightarrow$ Bancos adotam;
             - 2002 $\Rightarrow$ População adota.
+            <br>
+    - ### Espaço Shengen
+        - Acordo de livre circulação de pessoas e fronteiras abertas;
+        - Abrange todos os integrantes da União Europeia e 3 que não fazem parte, mas aderiram ao acordo: Islândia, Noruega e Suíça.
+        <br>
+    - ### Zona do euro
+        - Acordo para a unificação monetária da União Europeia;
+        - Apenas 20 dos atuais 27 membros da União Europeia adotaram o euro $\Rightarrow$ Croácia foi o último a entrar;
+        - Causas:
+            - Falta de condição econômica;
+            - Suécia e Dinamarca $\Rightarrow$ Medo de afetar suas economias.
+            <br>
+    - ### Brexit
+        - Saída do Reino Unido da União Europeia;
+        - Pró Brexit $\Rightarrow$ 51,9%;
+        - Contra Brexit $\Rightarrow$ 49,1%;
+        - Reino Unido era a 3ª maior economia da Europa;
+        - Causas:
+            - Crise dos refugiados;
+            - Nacionalismo;
+            - Liberdade de negociação.
+            <br>
+        - Problemas:
+            - Irlanda x Escócia:
+                - Países que votaram majoritariamente para permanecer.
+            - Velhos x Jovens:
+                - Velhos $\Rightarrow$ Favoráveis ao Brexit;
+                - Jovens $\Rightarrow$ Contra o Brexit.
+            - Fuga de capitais:
+                - Reino Unido era sede europeia de muitas empresas.
+            - 2023 $\Rightarrow$ Dificuldade econômicas
+                - Part da população se arrepente;
+                - Reino Unido regride economicamente.
