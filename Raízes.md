@@ -1,6 +1,6 @@
 # Raízes
 
-As raízes auxiliam a fixação da planta no solo e são responsáveis pela absorção de substâncias essenciais como $H_{2}O$ e sais minerais. Existem diferentes tipos de raízes, mas de modo geral, há uma raiz primária e várias ramificações.
+As raízes auxiliam a fixação da planta no solo e são responsáveis pela absorção de substâncias essenciais como $\ce{H_{2}O}$ e sais minerais. Existem diferentes tipos de raízes, mas de modo geral, há uma raiz primária e várias ramificações.
 
 ---
 
