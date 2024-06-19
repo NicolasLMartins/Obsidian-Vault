@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redações.md",
-                "mode": "source",
+                "file": "Partes da planta.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Redações.md",
+            "file": "Partes da planta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Redações.md",
+            "file": "Partes da planta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Redações.md"
+            "file": "Partes da planta.md"
           }
         }
       },
@@ -170,15 +170,41 @@
   },
   "active": "bb31217f06a606f6",
   "lastOpenFiles": [
-    "Redação quarta feira.md",
     "Redações.md",
-    "Redação semana que vem.md",
-    "Aumento de casos de pedofilia no Brasil.md",
-    "Correção redação.md",
-    "Reações de oxirredução.md",
-    "Meio técnico-científico internacional.md",
-    "/Reações de oxirredução.md",
-    "/Meio técnico-científico internacional.md",
-    "/Aumento de casos de pedofilia no Brasil.md"
+    "Ênclise.md",
+    "Untitled.md",
+    "Regime militar (1964 -1985).md",
+    "Racismo ambiental.md",
+    "Próclise.md",
+    "Potencial do eletrodo.md",
+    "Partes da planta.md",
+    "Os problemas enfrentados pelos idosos na sociedade brasileira.md",
+    "Oportunidade para os jovens no mercado de trabalho.md",
+    "OmniWear (atividade de português).md",
+    "Mesóclise.md",
+    "Kodak.md",
+    "Jorge Amado.md",
+    "IMG_20240603_093353.jpg",
+    "IMG_20240603_093351.jpg",
+    "IMG_20240603_083537.jpg",
+    "IMG_20240603_083526.jpg",
+    "IMG_20240603_083519.jpg",
+    "Economia global.md",
+    "Diagrama de Ishikawa (Espinha de Peixe).md",
+    "Célula vegetal.md",
+    "Célula eletroquímica.md",
+    "Contracultura.md",
+    "Colocação pronominal.md",
+    "Classificação econômica dos países.md",
+    "Blocos econômicos.md",
+    "Atividades de espanhol.md",
+    "Atividade plano de ação.md",
+    "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
+    "/Ênclise.md",
+    "/IMG_20240603_093353.jpg",
+    "/IMG_20240603_093351.jpg",
+    "/IMG_20240603_083537.jpg",
+    "/IMG_20240603_083526.jpg",
+    "/IMG_20240603_083519.jpg"
   ]
 }
