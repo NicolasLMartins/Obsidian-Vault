@@ -1,3 +1,5 @@
+# Célula Elétroquímica
+
 As pilhas e baterias são dispositivos em que reações de OXIRREDUÇÃO transformam **energia química** em **elétrica**.
 
 ![[IMG_20240603_083519.jpg]]

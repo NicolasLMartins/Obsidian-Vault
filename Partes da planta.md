@@ -1,6 +1,6 @@
 # Partes da Planta
 
-Raízes, caules, folhas, flores e frutos.
+[[Raízes]], caules, folhas, flores e frutos.
 
 Cada parte desempenha uma função importante para o vegetal, assim como os órgãos do corpo humano.
 
@@ -18,3 +18,7 @@ Nas folhas ocorrem a respiração e a transpiração, que ocorre devido às estr
 - Pecíolo: A parte estreita localizada entre o limbo e o caule;
 - Estípula: É uma pequena parte que protege o pecíolo;
 - Bainha: É a parte inferior da folha. Ela protege a estípula.
+
+---
+
+![[Raízes#Raízes]]

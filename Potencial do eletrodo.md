@@ -1,6 +1,6 @@
 # Potencial do Eletrodo
 
-Em uma célula ==eletroquímica==, os elétrons provenientes do ânodo (eletrodo negativo) se movem por meio do circuito externo em direção ao cátodo (eletrodo positivo). Porém, para que isso ocorra, é preciso haver uma diferença de potencial (ddp ou $\Delta E$), cuja unidade de medida é o volt, seu valor pode ser determinado por um aparelho chamado Voltímetro.
+Em uma célula <mark class="hltr-red">eletroquímica</mark>, os elétrons provenientes do ânodo (eletrodo negativo) se movem por meio do circuito externo em direção ao cátodo (eletrodo positivo). Porém, para que isso ocorra, é preciso haver uma diferença de potencial (ddp ou $\Delta E$), cuja unidade de medida é o volt, seu valor pode ser determinado por um aparelho chamado Voltímetro.
 
 O eletrodo adotado como padrão é o hidrogênio, desse modo, para medir o potencial de um eletrodo qualquer, basta ligá-lo ao eletrodo de hidrogênio.
 

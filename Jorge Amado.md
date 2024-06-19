@@ -15,7 +15,7 @@
         - Terras do Sem Fim (1943).
         <br>
 - ## Segunda fase 
-    -  Personagens populares;
+    - Personagens populares;
     - Ironia;
     - Coloquialismo;
     - Elementos do folclores;
@@ -24,7 +24,7 @@
     - Mitologia do candomblé.
     <br>
     - ### Principais obras
-        - Gabriela, Cravo e Canela (1958);
+        - [[Gabriela, Cravo e Canela]] (1958);
         - Dona Flor e Seus Dois Maridos (1966);
         - Tieta do Agreste (1977);
         - Tenda dos Milagres (1969);
