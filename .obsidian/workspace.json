@@ -4,42 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9e1e273062e17c",
+        "id": "0a46738e4de73332",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d2db1fe7a2320f",
+            "id": "c4908cce2a75bc27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eletrólise ígnea.md",
+                "file": "Partes da planta.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "f9db128cf25a4dc7"
-          }
-        ]
-      },
-      {
-        "id": "b23a20ade131dfe3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d380e51267107d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eletrólise ígnea.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            },
-            "group": "f9db128cf25a4dc7"
+            }
           }
         ]
       }
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eletrólise ígnea.md",
+                "file": "Partes da planta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eletrólise ígnea.md",
+                "file": "Partes da planta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eletrólise ígnea.md"
+                "file": "Partes da planta.md"
               }
             }
           },
@@ -199,44 +178,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d380e51267107d97",
+  "active": "c4908cce2a75bc27",
   "lastOpenFiles": [
-    "IMG_20240618_152456.jpg",
-    "Eletrólise ígnea.md",
-    "Célula eletroquímica.md",
-    "Potencial do eletrodo.md",
-    "Eletrólise.md",
-    "IMG_20240618_150645.jpg",
     "Raízes.md",
-    "Blocos econômicos.md",
-    "Raízes subterrâneas fasciculadas.md",
-    "Raízes subterrâneas pivotantes.md",
     "Raízes tuberosas.md",
+    "Raízes subterrâneas pivotantes.md",
+    "Raízes subterrâneas fasciculadas.md",
+    "Raízes subterrâneas.md",
     "Raízes sugadoras.md",
     "Raízes escoras.md",
     "Raízes aquáticas.md",
-    "Raízes subterrâneas.md",
+    "Caules.md",
+    "Caules aéreos.md",
+    "Colmo.md",
+    "Haste.md",
+    "Tronco.md",
+    "IMG_20240619_111429.jpg",
+    "IMG_20240619_110646.jpg",
+    "IMG_20240619_110641.jpg",
     "Partes da planta.md",
-    "Próclise.md",
-    "Ênclise.md",
-    "IMG_20240618_134528~2.jpg",
-    "Célula vegetal.md",
-    "Gabriela, Cravo e Canela.md",
-    "Jorge Amado.md",
+    "Potencial do eletrodo.md",
+    "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
     "Economia global.md",
-    "Classificação econômica dos países.md",
-    "Concordância nominal.md",
-    "Kodak.md",
-    "Untitled 1.md",
-    "Racismo ambiental.md",
+    "Célula vegetal.md",
+    "Célula eletroquímica.md",
+    "Contracultura.md",
+    "Aumento de casos de pedofilia no Brasil.md",
+    "Meio técnico-científico internacional.md",
+    "Reações de oxirredução.md",
+    "Atividade português.md",
+    "Metonímia.md",
+    "Metáfora.md",
+    "IMG_20240618_152456.jpg",
+    "IMG_20240618_150645.jpg",
+    "IMG_20240618_134528~2.jpg",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
     "IMG_20240603_093351.jpg",
-    "IMG_20240603_093353.jpg",
     "temp",
     "repo",
-    "Pasted image 20240520104212.png",
     "Sem título.canvas"
   ]
 }

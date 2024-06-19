@@ -6,11 +6,11 @@ As pilhas e baterias são dispositivos em que reações de OXIRREDUÇÃO transfo
 
 ---
 
-## Funcionamento: Pilha de Daniell ($Zn/Cu$)
+## Funcionamento: Pilha de Daniell ($\ce{Zn/Cu}$)
 
 ![[IMG_20240603_083526.jpg]]
 
-$Zn > Cu$ (Zinco é mais reativo que o Cobre) ele tem tendência em doar elétrons para o cobre.
+$\ce{Zn > Cu}$ (Zinco é mais reativo que o Cobre) ele tem tendência em doar elétrons para o cobre.
 
 Após um tempo teremos:
 
@@ -21,15 +21,15 @@ Após um tempo teremos:
 
 ---
 
-## Ânodo: Oxidação (perda de $e^{-}$), eletrodo negativo: <br>$$Zn(s) \to Zn^{+2} + 2e^{-}$$
-## Cátodo: Redução (ganho de $e{-}$), eletrodo positivo: <br>$$Cu^{+2} + 2e^{-} \to Cu$$
+## Ânodo: Oxidação (perda de $e^{-}$), eletrodo negativo: <br>$$\ce{Zn(s) -> Zn^{+2} + 2e^{-}}$$
+## Cátodo: Redução (ganho de $e{-}$), eletrodo positivo: <br>$$\ce{Cu^{+2} + 2e^{-} -> Cu}$$
 ---
 
-## Semirreação anódica: <br>$$Zn \to Zn^{+2} + \cancel{2e^{-}}$$
-## Semirreação catódica: <br>$$Cu^{+2} + \cancel{2e^{-}} \to Cu$$
+## Semirreação anódica: <br>$$\ce{Zn -> Zn^{+2} + \cancel{2e^{-}}}$$
+## Semirreação catódica: <br>$$\ce{Cu^{+2} + \cancel{2e^{-}} -> Cu}$$
 ---
 
-## Equação global da pilha: <br>$$Zn + Cu^{+2} \to Zn^{+2} + Cu$$
+## Equação global da pilha: <br>$$\ce{Zn + Cu^{+2} -> Zn^{+2} + Cu}$$
 ---
 
 ![[IMG_20240603_093351.jpg]]
