@@ -11,13 +11,8 @@
             "id": "c4908cce2a75bc27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Partes da planta.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partes da planta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partes da planta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Partes da planta.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,6 +172,7 @@
   },
   "active": "c4908cce2a75bc27",
   "lastOpenFiles": [
+    "Partes da planta.md",
     "Raízes.md",
     "Raízes tuberosas.md",
     "Raízes subterrâneas pivotantes.md",
@@ -196,7 +189,6 @@
     "IMG_20240619_111429.jpg",
     "IMG_20240619_110646.jpg",
     "IMG_20240619_110641.jpg",
-    "Partes da planta.md",
     "Potencial do eletrodo.md",
     "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
     "Economia global.md",
