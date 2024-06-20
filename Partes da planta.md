@@ -23,10 +23,18 @@ Nas folhas ocorrem a respiração e a transpiração, que ocorre devido às estr
 
 ![[Raízes#Raízes]]
 
+---
+
 ![[Caules#Caules]]
+
+---
 
 ![[Folhas#Folhas]]
 
+---
+
 ![[Flores#Flores]]
+
+---
 
 ![[Frutos#Frutos]]

@@ -1,1 +1,1 @@
-Reprodução de uma [[Língua]].
+Reprodução de uma [[Língua|língua]].

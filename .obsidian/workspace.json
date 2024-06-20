@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0a46738e4de73332",
+        "id": "527aee01a87d6726",
         "type": "tabs",
         "children": [
           {
-            "id": "c4908cce2a75bc27",
+            "id": "b668874ae64f4839",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pandora.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pandora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pandora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pandora.md"
+              }
             }
           },
           {
@@ -151,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,44 +178,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4908cce2a75bc27",
+  "active": "b668874ae64f4839",
   "lastOpenFiles": [
-    "Partes da planta.md",
+    "Matriz de Clareza Futura.md",
+    "Matriz de Eisenhower.md",
+    "Pandora.md",
+    "Matriz de Clareza Atual.md",
     "Raízes.md",
-    "Raízes tuberosas.md",
-    "Raízes subterrâneas pivotantes.md",
-    "Raízes subterrâneas fasciculadas.md",
-    "Raízes subterrâneas.md",
-    "Raízes sugadoras.md",
-    "Raízes escoras.md",
-    "Raízes aquáticas.md",
-    "Caules.md",
+    "Metonímia.md",
+    "Metáfora.md",
+    "Mimética.md",
+    "Língua.md",
+    "Fala.md",
+    "Linguagem.md",
+    "README.md",
+    "Pasted image 20240520104212.png",
+    "Quais são os caminhos para a reconstrução.md",
+    "Cultura e sociedade nas décadas de 1950 e 1960.md",
+    "Redações.md",
+    "Agentes.md",
+    "Elementos de Coesão.md",
+    "Introdução.md",
+    "Estrutura da redação.md",
+    "Redação quarta feira.md",
     "Caules aéreos.md",
-    "Colmo.md",
-    "Haste.md",
-    "Tronco.md",
+    "Partes da planta.md",
+    "Tipologia textual.md",
+    "Narração.md",
+    "Descrição.md",
+    "Dissertação.md",
+    "Biologia",
+    "Química",
+    "Geografia",
+    "História",
     "IMG_20240619_111429.jpg",
     "IMG_20240619_110646.jpg",
     "IMG_20240619_110641.jpg",
-    "Potencial do eletrodo.md",
-    "Atividade de biologia (pg. 9 exercícios 1 ao 20 Prepara ENEM).md",
-    "Economia global.md",
-    "Célula vegetal.md",
-    "Célula eletroquímica.md",
-    "Contracultura.md",
-    "Aumento de casos de pedofilia no Brasil.md",
-    "Meio técnico-científico internacional.md",
-    "Reações de oxirredução.md",
-    "Atividade português.md",
-    "Metonímia.md",
-    "Metáfora.md",
     "IMG_20240618_152456.jpg",
     "IMG_20240618_150645.jpg",
     "IMG_20240618_134528~2.jpg",
     "IMG_20240603_083519.jpg",
     "IMG_20240603_083537.jpg",
     "IMG_20240603_083526.jpg",
-    "IMG_20240603_093351.jpg",
     "temp",
     "repo",
     "Sem título.canvas"
