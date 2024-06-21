@@ -3,7 +3,7 @@
 - ## O que é
     - Uma empresa familiar;
     - Um restaurante <mark class="hltr-green">moderno</mark> com $+$ de 40 anos, localizado no centro de São Leopoldo (restaurante Modelo como referência);
-    - <mark class="hltr-green">Uma franquia</mark>.
+    - <mark class="hltr-green">Tem franquias</mark>.
     <br>
 - ## O que não é
     - Uma churrascaria;
