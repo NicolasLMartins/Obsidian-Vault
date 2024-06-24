@@ -5,6 +5,6 @@ Não conseguem fixar a planta a um substrato, mas podem se acoplar a pedras e ou
 
 ---
 
-> [!info] Exemplo:
+> [!info] Exemplo
 > <br>
 > Vitória-régia.

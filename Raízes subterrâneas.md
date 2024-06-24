@@ -2,7 +2,9 @@
 
 Divididas em [[Raízes subterrâneas fasciculadas|fasciculadas]] e [[Raízes subterrâneas pivotantes|pivotantes]]:
 
-![[IMG_20240618_134528~2.jpg]]
+---
+
+[[IMG_20240618_134528~2.jpg|Figura 1]]
 
 ---
 
