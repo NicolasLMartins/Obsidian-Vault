@@ -1,2 +1,2 @@
-- Obrigatoriamente um parágrafo de [[Introdução]] e um de conclusão;
+- Obrigatoriamente um parágrafo de [[Introdução|introdução]] e um de conclusão;
 - 2 parágrafos de desenvolvimento, pelo menos.

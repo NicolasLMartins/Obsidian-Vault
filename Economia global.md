@@ -8,7 +8,7 @@
 
 ---
 
-Surge a <mark style="background: #FF5582A6;">Sociedade de Consumo</mark>
+Surge a <mark class="hltr-red">Sociedade de Consumo</mark>
 
 - # Comércio desigual:
     - ## Europa ocidental, América do Norte e parte de Europa:

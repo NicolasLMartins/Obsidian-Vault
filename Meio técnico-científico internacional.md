@@ -20,7 +20,7 @@
     - ## Região Centro-Oeste $+$ TO:
         - Ocupação periférica recente;
         - Produção agrícola moderna;
-        - Não há <mark style="background: #FF5582A6;">rugosidades</mark> $\to$ Presença de história;
+        - Não há <mark class="hltr-red">rugosidades</mark> $\to$ Presença de história;
         - Desigualdade social significativa;
     
     - ## Região Nordeste:
