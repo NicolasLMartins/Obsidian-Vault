@@ -4,35 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "625f3df0141b0969",
+        "id": "f5ff803821161bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "1120ddc08e9480a4",
+            "id": "c9f587681021316d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatura do RS.md",
+                "file": "Partes da planta.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "87a02f76311b1b49",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ad8858b67e76a3f7",
+            "id": "32b6c031ec9f835e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os ratos.md",
+                "file": "Folhas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -40,19 +34,33 @@
             }
           },
           {
-            "id": "db830dbddfedd167",
+            "id": "9ed01561535869f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raízes.md",
+                "file": "Neoliberalismo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ee7df4054c0ffb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flores.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literatura do RS.md",
+                "file": "Neoliberalismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literatura do RS.md",
+                "file": "Neoliberalismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literatura do RS.md"
+                "file": "Neoliberalismo.md"
               }
             }
           },
@@ -224,19 +232,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1120ddc08e9480a4",
+  "active": "9ed01561535869f0",
   "lastOpenFiles": [
-    "Os ratos.md",
-    "Literatura do RS.md",
-    "Raízes.md",
+    "Folhas.md",
+    "Neoliberalismo.md",
+    "Pasted image 20240624142526.png",
+    "Pasted image 20240624142519.png",
     "Partes da planta.md",
+    "Flores.md",
+    "Raízes.md",
+    "Pasted image 20240624141157.png",
+    "Eletrólise.md",
+    "Eletrólise ígnea.md",
+    "Exercícios eletrólise ígnea.md",
+    "Literatura do RS.md",
+    "Os ratos.md",
+    "Tronco.md",
     "Caules aéreos.md",
     "Colmo.md",
     "Haste.md",
-    "Tronco.md",
     "Caules.md",
     "Raízes subterrâneas.md",
-    "Untitled.md",
     "IMG_20240618_134528~2.jpg",
     "Raízes tuberosas.md",
     "Raízes subterrâneas fasciculadas.md",
@@ -246,13 +262,6 @@
     "Matriz de Eisenhower.md",
     "Indução magnética.md",
     "Blocos econômicos.md",
-    "Pandora.md",
-    "Matriz de Clareza Futura.md",
-    "Matriz de Clareza Atual.md",
-    "Metonímia.md",
-    "Metáfora.md",
-    "Mimética.md",
-    "Língua.md",
     "Pasted image 20240520104212.png",
     "Biologia",
     "Química",
@@ -263,9 +272,6 @@
     "IMG_20240619_110641.jpg",
     "IMG_20240618_152456.jpg",
     "IMG_20240618_150645.jpg",
-    "IMG_20240603_083519.jpg",
-    "IMG_20240603_083537.jpg",
-    "IMG_20240603_083526.jpg",
     "temp",
     "repo",
     "Sem título.canvas"

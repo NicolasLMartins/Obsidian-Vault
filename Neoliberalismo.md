@@ -1,0 +1,7 @@
+# Neoliberalismo
+
+É considerado o pai do liberalismo econômico Adam Smith que foi um dos teóricos iluministas. Ele defendia a ideia de que o Estado não deveria comandar e/ou controlar o desenvolvimento econômico e as principais atividades econômicas. O Estado deveria transferir estas atribuições para a burguesia, que segundo ele, teria mais interesse e condições de promover o desenvolvimento econômico. Por sua vez, o Estado seria o responsável pela legislação, educação, segurança e saúde.
+
+Diversos países, principalmente na Europa Ocidental, Estados Unidos e Japão, aplicaram a ideia liberal, alcançando bons níveis de desenvolvimento. Na primeira metade do século $\text{XX}$ as duas guerras mundiais destruíram uma grande parte da capacidade produtiva desses países. Com isso, a burguesia estava com sua capacidade reduzida. Portanto, sem condições de reconstruir a economia. O Estado assumiu este papel e devolveu a estes países a capacidade produtiva.
+
+Quando a economia estava a pleno vapor a burguesia, através da política, sugere o retorno do Liberalismo. Desta forma, os governos da Inglaterra e dos Estados Unidos iniciam o projeto neoliberal, fazendo as primeiras grandes privatizações.
