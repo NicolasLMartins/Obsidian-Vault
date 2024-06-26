@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "63d1f59ca7bbbd6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d81fd27b4706281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c7235e2dfec0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aumento de casos de pedofilia no Brasil.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb31217f06a606f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partes da planta.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4d9314ab891e41c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e00cfeb730423c5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "b18a7a6e1e34cbc7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3960bd144cd3d2f1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2267bb7f2e2c9f7f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7b172d23d3c305bf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "32a56bb72bc84193",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Partes da planta.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "861404a33e23c54a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Partes da planta.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3fb672fba55e7c63",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Partes da planta.md"
+          }
+        }
+      },
+      {
+        "id": "361832f543b5dee9",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "62697e47092dda8e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "bb31217f06a606f6",
+  "lastOpenFiles": [
+    "Potencial do eletrodo.md",
+    "Raízes.md",
+    "Raízes subterrâneas pivotantes.md",
+    "Raízes subterrâneas fasciculadas.md",
+    "Partes da planta.md",
+    "Raízes tuberosas.md",
+    "Raízes sugadoras.md",
+    "Raízes subterrâneas.md",
+    "Raízes escoras.md",
+    "Raízes aquáticas.md",
+    "IMG_20240618_152456.jpg",
+    "IMG_20240618_150645.jpg",
+    "IMG_20240618_134528~2.jpg",
+    "Gabriela, Cravo e Canela.md",
+    "Eletrólise.md",
+    "Eletrólise ígnea.md",
+    "Concordância nominal.md",
+    "/Raízes.md",
+    "/Raízes tuberosas.md",
+    "/Raízes sugadoras.md",
+    "/Raízes subterrâneas.md",
+    "/Raízes subterrâneas pivotantes.md",
+    "/Raízes subterrâneas fasciculadas.md",
+    "/Raízes escoras.md",
+    "/Raízes aquáticas.md",
+    "/IMG_20240618_152456.jpg",
+    "/IMG_20240618_150645.jpg",
+    "/IMG_20240618_134528~2.jpg",
+    "/Gabriela, Cravo e Canela.md",
+    "/Eletrólise.md",
+    "/Eletrólise ígnea.md",
+    "/Concordância nominal.md",
+    "IMG_20240603_093353.jpg",
+    "IMG_20240603_093351.jpg",
+    "IMG_20240603_083537.jpg",
+    "IMG_20240603_083526.jpg"
+  ]
+}

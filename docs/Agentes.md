@@ -1,0 +1,1 @@
+Elementos da sociedade responsáveis por solucionar o problema.

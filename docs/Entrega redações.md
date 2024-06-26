@@ -1,0 +1,6 @@
+- Correção em até 5 dias úteis;
+- Quando pedir pra marcar plantão, significa conselhos para melhorar;
+- Não adianta marcar plantão sem entregar os trabalhos;
+- Relatório já indica muitos dos conselhos para melhorar na próxima;
+- Deve ser feita na folha matriz pois o tamanho das linhas é padronizado (no máximo 30 linhas escritas na redação);
+- Zera a redação se ultrapassar o número de linhas na prova do ENEM;

@@ -1,0 +1,121 @@
+# Blocos Econômicos
+
+- Agrupamentos de países que visam reduzir as tarifas alfandegárias entre os membros;
+- Crescimento e desenvolvimento mútuo.
+---
+- ## BeNeLux $\Rightarrow$ 1948
+    - Embrião da União Europeia;
+    - Pós [[Segunda Guerra Mundial]];
+    - ### União Aduaneira:
+        - Formada por $\Rightarrow$ Bélgica, Luxemburgo, Países Baixos;
+        - Livre circulação de mercadoria e tarifa externa comum.
+---
+- ## CECA $\Rightarrow$ Comunidade Europeia do Carvão e do Aço
+    - 1952 $\Rightarrow$ BeNeLux + Alemanha + França + Itália;
+    - Facilitou trocas;
+    - Normalizou a relação Alemanha/França;
+    - Sonho da Europa unida.
+---
+- ## Mercado comum europeu $\Rightarrow$ 1957
+    - A Europa dos seis;
+    - ### Tratado de Roma:
+        - Ampliação do CECA;
+        - Avanço na criação de políticas comuns:
+            - Comércio, agro, energia, transporte.
+            <br>
+    - Ano a ano mais países vão aderindo ao mercado comum;
+    - 1986 $\Rightarrow$ 12 membros;
+    - 1991 $\Rightarrow$ União Europeia.
+---
+- ## União Europeia $\Rightarrow$ 1992
+    - Tratado de Maastricht;
+    - "MCE" passa a se tornar "UE";
+    - Criação do cidadão europeu $\Rightarrow$ Livre circulação;
+    - Baseia-se em 3 pilares:
+        - Instituição comunitária $\Rightarrow$ Parlamento europeu;
+        - Política externa comum $\Rightarrow$ Decisão intergovernamental;
+        - Cooperação na justiça $\Rightarrow$ Unificação monetária.
+        <br>
+    - ### Tratado de Amsterdã $\Rightarrow$ 1997
+        - Criação do euro;
+        - Derrubada de todas as barreiras para a livre circulação;
+        - Euro:
+            - 1999 $\Rightarrow$ Bancos adotam;
+            - 2002 $\Rightarrow$ População adota.
+            <br>
+    - ### Espaço Shengen
+        - Acordo de livre circulação de pessoas e fronteiras abertas;
+        - Abrange todos os integrantes da União Europeia e 3 que não fazem parte, mas aderiram ao acordo: Islândia, Noruega e Suíça.
+        <br>
+    - ### Zona do euro
+        - Acordo para a unificação monetária da União Europeia;
+        - Apenas 20 dos atuais 27 membros da União Europeia adotaram o euro $\Rightarrow$ Croácia foi o último a entrar;
+        - Causas:
+            - Falta de condição econômica;
+            - Suécia e Dinamarca $\Rightarrow$ Medo de afetar suas economias.
+            <br>
+    - ### Brexit
+        - Saída do Reino Unido da União Europeia;
+        - Pró Brexit $\Rightarrow$ 51,9%;
+        - Contra Brexit $\Rightarrow$ 49,1%;
+        - Reino Unido era a 3ª maior economia da Europa;
+        - Causas:
+            - Crise dos refugiados;
+            - Nacionalismo;
+            - Liberdade de negociação.
+            <br>
+        - Problemas:
+            - Irlanda x Escócia:
+                - Países que votaram majoritariamente para permanecer.
+            - Velhos x Jovens:
+                - Velhos $\Rightarrow$ Favoráveis ao Brexit;
+                - Jovens $\Rightarrow$ Contra o Brexit.
+            - Fuga de capitais:
+                - Reino Unido era sede europeia de muitas empresas.
+            - 2023 $\Rightarrow$ Dificuldade econômicas
+                - Part da população se arrepente;
+                - Reino Unido regride economicamente.
+---
+- ## NAFTA $\Rightarrow$ North America Free Trade Area
+    - Área de livre comércio da América do Norte;
+    - 1988 $\Rightarrow$ EUA e Canadá fazem acordo;
+    - 1992 $\Rightarrow$ México assina a entrada no bloco;
+    - ### México:
+        - Mão de obra barata;
+        - Reserva de petróleo;
+        - Mercado consumidor.
+        - Limitado apenas a livre circulação;
+        - Sempre em posição subalterna.
+---
+- ## USMCA $\to$ Novo NAFTA
+    - 2018 $\Rightarrow$ Mudança no acordo:
+        - Influência de políticas anti-imigração $\Rightarrow$ Trump.
+    - Fortalecer o protecionismo nos EUA;
+    - Fuga de empresas para o México.
+    - Regras industriais:
+        - Exigência de U$16 por hora trabalhada na indústria;
+        <br>
+    - ### Benefícios do USMCA
+        - EUA:
+            - Aumento do setor automotivo;
+            - Proteção intelectual da indústria farmacêutica.
+        - Canadá:
+            - Acesso ao mercado;
+            - Melhoria nas normas trabalhistas.
+        - México:
+            - Investimentos estrangeiros.
+            <br>
+    - ### Malefícios do USMCA
+        - EUA:
+            - Aumento no custo de produção $\Rightarrow$ Preço final mais alto;
+            - Impacto nas PME's $\Rightarrow$ Novas regulamentações.
+        - Canadá:
+            - Acesso restrito a medicamentos:
+                - Propriedade intelectual;
+                - Saúde pública mais cara.
+            - Limitação da capacidade:
+                - Falta de independência;
+                - Política industrial.
+        - México:
+            - Custo da produção $\Rightarrow$ Exigências rigorosas e difíceis de fiscalizar;
+            - Dependência econômica $\Rightarrow$ Fortalecimento dos vínculos com o EUA.

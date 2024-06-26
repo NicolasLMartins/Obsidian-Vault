@@ -1,0 +1,3 @@
+# Atividade de introdução
+
+"Tinha uma pedra no meio do caminho, no meio do caminho tinha uma pedra". Nos versos do poeta Carlos Drummond de Andrade, as pedras podem representar percalços dentro de uma sociedade. Analogamente a isso, a sociedade contemporânea apresenta muitas pedras que desequilibram o bem estar de pais e filhos, na forma de casos de pedofilia no Brasil. Sendo assim, é perceptível dois grandes fatores no aumento de casos de pedofilia; a intensa difusão da pornografia infantil e a acentuada exposição da criança na era da internet.
