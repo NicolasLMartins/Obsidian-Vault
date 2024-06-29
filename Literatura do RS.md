@@ -1,9 +1,5 @@
-# Dyonélio Machado $\Rightarrow$ análise psicológica
+![[Dyonélio Machado#Dyonélio Machado]]
 
-- Coloquialismo elaborado;
-- Existencialismo;
-- Crítica social;
-- Narrativas urbana;
-- Mistura do mundo exterior com o mundo interior;
-> [!info] Principal Obra
-> ![[Os ratos#Os Ratos]]
+---
+
+![[Cyro Martins#Cyro Martins]]

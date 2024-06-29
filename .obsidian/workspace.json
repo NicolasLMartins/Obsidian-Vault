@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0d10d460daa528",
+        "id": "8367bd0e66d830f6",
         "type": "tabs",
         "children": [
           {
-            "id": "7221daa1731edbd3",
+            "id": "0fc4630917581083",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,8 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7221daa1731edbd3",
+  "active": "0fc4630917581083",
   "lastOpenFiles": [
+    "Os Ratos.md",
+    "Porteira Fechada.md",
+    "Cyro Martins.md",
+    "Dyonélio Machado.md",
+    "Literatura do RS.md",
     "Concordância nominal.md",
     "index.md",
     "index.html",
@@ -198,8 +203,6 @@
     "Eletrólise.md",
     "Eletrólise ígnea.md",
     "Exercícios eletrólise ígnea.md",
-    "Literatura do RS.md",
-    "Os ratos.md",
     "Tronco.md",
     "Caules aéreos.md",
     "Colmo.md",
@@ -212,8 +215,6 @@
     "Raízes subterrâneas pivotantes.md",
     "Raízes sugadoras.md",
     "Raízes aquáticas.md",
-    "Matriz de Eisenhower.md",
-    "Indução magnética.md",
     "Pasted image 20240520104212.png",
     "Biologia",
     "Química",
