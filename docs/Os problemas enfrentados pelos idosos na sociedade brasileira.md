@@ -1,3 +1,0 @@
-# Exercício de conclusão
-
-Portanto, para que os idosos consigam romper com a barreira do preconceito no mercado de trabalho, é necessário que o Governo Federal, mais especificamente o Ministério das comunicações, realize campanhas nos meios midiáticos que visem conscientizar o público geral sobre a importância do acolhimento dos mais velhos dentro do mercado de trabalho. Além disso, é fulcral que o Ministério da Cidadania coloque em prática programas e políticas públicas com o objetivo de mitigar o preconceito sofrido pelos idosos dentro do mercado de trabalho. Só assim será possível eliminar de vez as pedras do meio do caminho de uma sociedade mais inclusiva.

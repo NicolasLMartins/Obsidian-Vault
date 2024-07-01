@@ -5,7 +5,5 @@
   "useTab": false,
   "strictLineBreaks": false,
   "showLineNumber": false,
-  "showUnsupportedFiles": true,
-  "livePreview": false,
-  "defaultViewMode": "preview"
+  "showUnsupportedFiles": true
 }

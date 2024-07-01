@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partes da planta.md",
+                "file": "Concordância nominal.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Partes da planta.md",
+            "file": "Concordância nominal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Partes da planta.md",
+            "file": "Concordância nominal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Partes da planta.md"
+            "file": "Concordância nominal.md"
           }
         }
       },
@@ -170,41 +170,41 @@
   },
   "active": "bb31217f06a606f6",
   "lastOpenFiles": [
-    "Potencial do eletrodo.md",
-    "Raízes.md",
-    "Raízes subterrâneas pivotantes.md",
-    "Raízes subterrâneas fasciculadas.md",
     "Partes da planta.md",
-    "Raízes tuberosas.md",
-    "Raízes sugadoras.md",
-    "Raízes subterrâneas.md",
-    "Raízes escoras.md",
-    "Raízes aquáticas.md",
+    "Matriz de Clareza Futura.md",
+    "Tronco.md",
+    "Pandora.md",
+    "Matriz de Eisenhower.md",
+    "Matriz de Clareza Atual.md",
+    "IMG_20240619_111429.jpg",
+    "IMG_20240619_110646.jpg",
+    "IMG_20240619_110641.jpg",
+    "Haste.md",
+    "Colmo.md",
+    "Caules.md",
+    "Caules aéreos.md",
+    "/Matriz de Clareza Futura.md",
+    "/Partes da planta.md",
+    "/Tronco.md",
+    "/Tipologia textual.md",
+    "/Reações de oxirredução.md",
+    "/Raízes tuberosas.md",
+    "/Raízes sugadoras.md",
+    "/Raízes subterrâneas pivotantes.md",
+    "/Raízes subterrâneas fasciculadas.md",
+    "/Raízes aquáticas.md",
+    "/Pandora.md",
+    "/Narração.md",
+    "/Metáfora.md",
+    "/Metonímia.md",
+    "/Meio técnico-científico internacional.md",
+    "/Matriz de Eisenhower.md",
+    "/IMG_20240619_111429.jpg",
+    "/IMG_20240619_110646.jpg",
+    "/IMG_20240619_110641.jpg",
     "IMG_20240618_152456.jpg",
     "IMG_20240618_150645.jpg",
     "IMG_20240618_134528~2.jpg",
-    "Gabriela, Cravo e Canela.md",
-    "Eletrólise.md",
-    "Eletrólise ígnea.md",
-    "Concordância nominal.md",
-    "/Raízes.md",
-    "/Raízes tuberosas.md",
-    "/Raízes sugadoras.md",
-    "/Raízes subterrâneas.md",
-    "/Raízes subterrâneas pivotantes.md",
-    "/Raízes subterrâneas fasciculadas.md",
-    "/Raízes escoras.md",
-    "/Raízes aquáticas.md",
-    "/IMG_20240618_152456.jpg",
-    "/IMG_20240618_150645.jpg",
-    "/IMG_20240618_134528~2.jpg",
-    "/Gabriela, Cravo e Canela.md",
-    "/Eletrólise.md",
-    "/Eletrólise ígnea.md",
-    "/Concordância nominal.md",
-    "IMG_20240603_093353.jpg",
-    "IMG_20240603_093351.jpg",
-    "IMG_20240603_083537.jpg",
-    "IMG_20240603_083526.jpg"
+    "/IMG_20240618_152456.jpg"
   ]
 }

@@ -1,6 +1,0 @@
-- Domínio da modalidade escrita formal da língua portuguesa;
-- Avalia-se a capacidade de escrever um texto utilizando a norma culta da língua portuguesa;
-- Correção das regras gramaticais (acentuação, ortografia, pontuação);
-- Texto limpo para leitura;
-- Estrutura sintática;
-- Vale 200 pontos.

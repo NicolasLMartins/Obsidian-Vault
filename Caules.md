@@ -6,11 +6,11 @@ Geralmente os caules são aéreos e verticais, como no caso do tomateiro ou dos 
 
 ---
 
-> [!example]- Tipos de caule
-    > - [[Caules aéreos|Aéreos]]: Tronco, haste, colmo, estipe, rizóforos.
-    > - [[Subterrâneos]]: Rizomas, tubérculos, bulbos.
-    > - [[Aquáticos]]: apresentam estruturas que armazenam ar e fazem com que a espécie flutue.
+- ## Tipos de caule
+    - [[Caules aéreos|Aéreos]]: Tronco, haste, colmo, estipe, rizóforos.
+    - [[Subterrâneos]]: Rizomas, tubérculos, bulbos.
+    - [[Aquáticos]]: apresentam estruturas que armazenam ar e fazem com que a espécie flutue.
 
 ---
 
-![[Caules aéreos#Caules Aéreos]]
+![[Caules aéreos#Aéreos]]

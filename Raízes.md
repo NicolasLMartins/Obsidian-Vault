@@ -4,29 +4,21 @@ As raízes auxiliam a fixação da planta no solo e são responsáveis pela abso
 
 ---
 
-> [!example]- Tipos de raízes
-> - [[Raízes subterrâneas|Subterrâneas]]: milho, feijão e café;
-> - [[Raízes tuberosas|Tuberosas]]: mandioca, cenoura e beterraba;
-> - [[Raízes sugadoras|Sugadoras]]: cipó e orquídeas;
-> - [[Raízes escoras|Escora]]: figueira;
-> - [[Raízes aquáticas|Aquáticas]]: vitória-régia.
+- ## Exemplos de raízes:
+    - [[Raízes subterrâneas|Subterrâneas]]: milho, feijão e café;
+    - [[Raízes tuberosas|Tuberosas]]: mandioca, cenoura e beterraba;
+    - [[Raízes sugadoras|Sugadoras]]: cipó e orquídeas;
+    - [[Raízes escoras|Escora]]: figueira;
+    - [[Raízes aquáticas|Aquáticas]]: vitória-régia.
 
 ---
 
 ![[Raízes subterrâneas#Raízes Subterrâneas]]
 
----
-
 ![[Raízes tuberosas#Raízes Tuberosas]]
-
----
 
 ![[Raízes sugadoras#Raízes Sugadoras]]
 
----
-
 ![[Raízes escoras#Raízes Escoras]]
-
----
 
 ![[Raízes aquáticas#Raízes Aquáticas]]
