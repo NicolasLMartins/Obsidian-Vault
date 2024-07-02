@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8367bd0e66d830f6",
+        "id": "6722f8dceb404c3f",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc4630917581083",
+            "id": "08d6f3fcac97b792",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Eletrólise.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "559b2cedb861ef9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -182,49 +205,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fc4630917581083",
+  "active": "559b2cedb861ef9b",
   "lastOpenFiles": [
-    "Os Ratos.md",
-    "Porteira Fechada.md",
-    "Cyro Martins.md",
-    "Dyonélio Machado.md",
-    "Literatura do RS.md",
-    "Concordância nominal.md",
-    "index.md",
-    "index.html",
-    "Partes da planta.md",
-    "Folhas.md",
-    "Flores.md",
-    "Neoliberalismo.md",
-    "Pasted image 20240624142526.png",
-    "Pasted image 20240624142519.png",
-    "Raízes.md",
-    "Pasted image 20240624141157.png",
     "Eletrólise.md",
-    "Eletrólise ígnea.md",
-    "Exercícios eletrólise ígnea.md",
-    "Tronco.md",
-    "Caules aéreos.md",
-    "Colmo.md",
-    "Haste.md",
-    "Caules.md",
-    "Raízes subterrâneas.md",
-    "IMG_20240618_134528~2.jpg",
-    "Raízes tuberosas.md",
-    "Raízes subterrâneas fasciculadas.md",
-    "Raízes subterrâneas pivotantes.md",
-    "Raízes sugadoras.md",
-    "Raízes aquáticas.md",
-    "Pasted image 20240520104212.png",
+    "conflict-files-obsidian-git.md",
+    "Perestroika e Glasnost.md",
+    "docs/Ênclise.md",
+    "docs/index.md",
+    "docs/index.html",
+    "docs/Tronco.md",
+    "docs/Tipologia textual.md",
+    "docs/Regime militar (1964 -1985).md",
+    "docs/Redações.md",
+    "docs/Redação semana que vem.md",
+    "docs/Redação quarta feira.md",
+    "docs/Reações de oxirredução.md",
+    "docs/Raízes.md",
+    "docs/Raízes tuberosas.md",
+    "docs/Raízes sugadoras.md",
+    "docs/Raízes subterrâneas.md",
+    "docs/Raízes subterrâneas pivotantes.md",
+    "docs/Raízes subterrâneas fasciculadas.md",
+    "docs/Raízes escoras.md",
+    "docs/Raízes aquáticas.md",
+    "docs/Racismo ambiental.md",
+    "docs/README.md",
+    "docs/Quais são os caminhos para a reconstrução.md",
+    "docs/Próclise.md",
+    "docs/Potencial do eletrodo.md",
+    "docs/Pasted image 20240624142526.png",
+    "docs/Pasted image 20240624142519.png",
+    "docs/Pasted image 20240624141157.png",
+    "docs/Pasted image 20240520104212.png",
+    "docs/Partes da planta.md",
+    "docs/IMG_20240619_111429.jpg",
+    "docs/IMG_20240619_110646.jpg",
+    "docs/IMG_20240619_110641.jpg",
+    "docs/IMG_20240618_152456.jpg",
+    "docs/IMG_20240618_150645.jpg",
+    "docs/IMG_20240618_134528~2.jpg",
+    "docs",
+    "index.html",
     "Biologia",
     "Química",
     "Geografia",
     "História",
-    "IMG_20240619_111429.jpg",
-    "IMG_20240619_110646.jpg",
-    "IMG_20240619_110641.jpg",
-    "IMG_20240618_152456.jpg",
-    "IMG_20240618_150645.jpg",
     "temp",
     "repo",
     "Sem título.canvas"
