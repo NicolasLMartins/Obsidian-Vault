@@ -14,4 +14,4 @@ A metalurgia pode ser definida como uma sequência de processos que consiste na 
 O processo de eletrólise avançou consideravelmente o processo para isolar novos elementos químicos e com isso o aumento de elementos na Tabela Periódica.
 
 ![[Eletrólise ígnea#Eletrólise Ígnea]]
-![[Exercícios eletrólise ígnea#^2b1a8e]]
+![[Eletrólise aquosa#Eletrólise Aquosa]]
