@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concordância nominal.md",
+                "file": "Partes da planta.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Concordância nominal.md",
+            "file": "Partes da planta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Concordância nominal.md",
+            "file": "Partes da planta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Concordância nominal.md"
+            "file": "Partes da planta.md"
           }
         }
       },
@@ -170,6 +170,10 @@
   },
   "active": "bb31217f06a606f6",
   "lastOpenFiles": [
+    "Raízes.md",
+    "Célula eletroquímica.md",
+    "IMG_20240603_083519.jpg.md",
+    "Concordância nominal.md",
     "Partes da planta.md",
     "Matriz de Clareza Futura.md",
     "Tronco.md",
@@ -195,10 +199,6 @@
     "/Raízes aquáticas.md",
     "/Pandora.md",
     "/Narração.md",
-    "/Metáfora.md",
-    "/Metonímia.md",
-    "/Meio técnico-científico internacional.md",
-    "/Matriz de Eisenhower.md",
     "/IMG_20240619_111429.jpg",
     "/IMG_20240619_110646.jpg",
     "/IMG_20240619_110641.jpg",
