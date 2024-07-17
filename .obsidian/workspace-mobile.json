@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partes da planta.md",
+                "file": "Pandora.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Partes da planta.md",
+            "file": "Pandora.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Partes da planta.md",
+            "file": "Pandora.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Partes da planta.md"
+            "file": "Pandora.md"
           }
         }
       },
@@ -170,11 +170,11 @@
   },
   "active": "bb31217f06a606f6",
   "lastOpenFiles": [
+    "Partes da planta.md",
     "Raízes.md",
     "Célula eletroquímica.md",
     "IMG_20240603_083519.jpg.md",
     "Concordância nominal.md",
-    "Partes da planta.md",
     "Matriz de Clareza Futura.md",
     "Tronco.md",
     "Pandora.md",
