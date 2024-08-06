@@ -18,7 +18,7 @@
     <br>
 # Doutrina Bush
 
-> [!example]- Nova política externa dos EUA:
+> [!example]- Nova política externa dos EUA
 > > [!info] Unilateralismo $\Rightarrow$ Ações feitas sem a consulta de órgãos de segurança;
 >
 > > [!info] Prevenção e ação antecipada $\Rightarrow$ Atacar países que fossem percebidos como ameaça $\Rightarrow$ Invasão do Iraque (2003);
