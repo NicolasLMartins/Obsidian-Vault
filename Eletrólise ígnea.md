@@ -4,11 +4,15 @@ Na célula eletrolítica são conectados dois eletrodos inertes, platina ou graf
 
 Para que ocorra a eletrólise é necessário a presença de corrente elétrica contínua e voltagem suficiente. A fonte geradora de corrente elétrica direta age retirando elétrons de um eletrodo e injetando em outro.
 
+<<<<<<< HEAD
 ---
 
 ![[IMG_20240618_150645.jpg]]
 
 ---
+=======
+![[IMG_20240618_150645.jpg]]
+>>>>>>> origin/master
 
 Na eletrólise ígnea, o processo de decomposição de um composto iônico ocorre na ausência de água. Para obtenção dos íons, a substância iônica é fundida, e a passagem de corrente elétrica é mantida no gerador.
 <mark class="hltr-red">Ex</mark>: $\ce{NaCl}$
@@ -20,9 +24,11 @@ Na eletrólise ígnea, o processo de decomposição de um composto iônico ocorr
     - Semirreação anódica ($+$): $$\ce{2Cl^{-} -> Cl_{2} + \cancel{2e^{-}}}$$
     - Equação global: $$\ce{2Na^{+} + 2Cl^{-} -> 2Na + Cl_{2}}$$
     <br>
+    ![[IMG_20240618_152456.jpg]]
 
 ---
 
+<<<<<<< HEAD
 ![[IMG_20240618_152456.jpg]]
 
 ---
@@ -48,3 +54,7 @@ Na eletrólise ígnea, o processo de decomposição de um composto iônico ocorr
 > > > Semirreação catódica ($-$): $$\ce{Ca^{+2} + \cancel{2e^{-}} -> Ca}$$
 > > > Semirreação anódica ($+$): $$\ce{Cl^{-} -> Br_{2} + \cancel{2e^{-}}}$$
 > > > Reação global: $$\ce{2K^{+} + 2Br -> 2K_{(s)} + Br_{2(g)}}$$
+=======
+- ## 
+$$
+>>>>>>> origin/master

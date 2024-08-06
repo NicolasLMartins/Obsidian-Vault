@@ -4,50 +4,120 @@
     "type": "split",
     "children": [
       {
-        "id": "6722f8dceb404c3f",
+        "id": "30865126811eff23",
         "type": "tabs",
         "children": [
           {
-            "id": "08d6f3fcac97b792",
+            "id": "ad59ff0cd7cc963d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eletrólise aquosa.md",
+                "file": "Trabalho sobre história da democracia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce50a9a78d66c08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guerra fria.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
-            },
-            "group": "13026b25d1a70286"
-          }
-        ]
-      },
-      {
-        "id": "29c54c0556664443",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "5126d344a61a64aa",
+            "id": "0600eb4fabf8667c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eletrólise aquosa.md",
+                "file": "Terrorismo.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9ec96ef9f68b2b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e8175fe38ed8473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redemocratização.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "114eb5180a261400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estratificação.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            },
-            "group": "13026b25d1a70286"
+            }
           },
           {
-            "id": "c1805fec1c7ab302",
+            "id": "50606fb3a4645b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Significação das palavras.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ae68a26851c0f330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Termos associados ao texto.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f735106a4708aa99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regência nominal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -55,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "democracia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c52e954284b4483b",
@@ -134,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -226,45 +297,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1805fec1c7ab302",
+  "active": "9ec96ef9f68b2b31",
   "lastOpenFiles": [
+    "Terrorismo.md",
+    "conflict-files-obsidian-git.md",
+    "Guerra fria.md",
+    "Estratificação.md",
+    "Redemocratização.md",
+    "Os Ratos.md",
+    "Dyonélio Machado.md",
+    "Regência nominal.md",
+    "Termos associados ao texto.md",
+    "Significação das palavras.md",
+    "Pasted image 20240730092537.png",
+    "Fórmulas.md",
+    "Volume molar.md",
+    "Trabalho sobre história da democracia.md",
+    "Eletrólise.md",
+    "Nova ordem mundial.md",
+    "Pandora.md",
+    "IMG_20240729_093301.jpg",
+    "IMG_20240729_092333.jpg",
+    "IMG_20240729_085750.jpg",
+    "Neoliberalismo e os problemas sociais.md",
+    "Grandezas químicas e volume molar.md",
+    "IMG_20240708_085751.jpg",
+    "Lista magnetismo.md",
+    "Eletromagnetismo.md",
     "Eletrólise aquosa.md",
-    "Untitled.md",
     "Eletrólise ígnea.md",
     "Matriz de Eisenhower.md",
-    "Eletrólise.md",
     "Exercícios eletrólise ígnea.md",
-    "conflict-files-obsidian-git.md",
     "Perestroika e Glasnost.md",
     "docs/Ênclise.md",
-    "docs/index.md",
     "docs/index.html",
-    "docs/Tronco.md",
-    "docs/Tipologia textual.md",
-    "docs/Regime militar (1964 -1985).md",
-    "docs/Redações.md",
-    "docs/Redação semana que vem.md",
-    "docs/Redação quarta feira.md",
-    "docs/Reações de oxirredução.md",
-    "docs/Raízes.md",
-    "docs/Raízes tuberosas.md",
-    "docs/Raízes sugadoras.md",
-    "docs/Raízes subterrâneas.md",
-    "docs/Raízes subterrâneas pivotantes.md",
-    "docs/Raízes subterrâneas fasciculadas.md",
-    "docs/Raízes escoras.md",
-    "docs/Raízes aquáticas.md",
-    "docs/Racismo ambiental.md",
     "docs/Pasted image 20240624142526.png",
     "docs/Pasted image 20240624142519.png",
     "docs/Pasted image 20240624141157.png",
     "docs/Pasted image 20240520104212.png",
     "docs/IMG_20240619_111429.jpg",
-    "docs/IMG_20240619_110646.jpg",
-    "docs/IMG_20240619_110641.jpg",
-    "docs/IMG_20240618_152456.jpg",
-    "docs/IMG_20240618_150645.jpg",
-    "docs/IMG_20240618_134528~2.jpg",
     "docs",
     "index.html",
     "Biologia",

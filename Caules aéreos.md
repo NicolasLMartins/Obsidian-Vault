@@ -1,4 +1,4 @@
-# Caules Aéreos
+# Aéreos
 
  ![[Tronco#Tronco]]
 
