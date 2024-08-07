@@ -46,3 +46,30 @@
 > - Não tem territórios específicos como objetivo;
 > - Século XXI com grupos como <mark class="hltr-red">Al-Qaeda e o Estado Islâmico</mark>:
 >     - Ataques em diferentes partes do mundo;
+
+# Criação do Estado Islâmico
+
+- Emergiu em 2014 como uma das organizações terroristas mais perigosas do século XXI;
+> [!example]- Antecedente Histórico
+> - Al-Qaeda $\Rightarrow$ Criada em 1988, orquestrou o ataque às torres gêmeas, se destacou pela brutalidade;
+> - Invasão dos EUA $\Rightarrow$ 2003 $\Rightarrow$ Derrubar Saddam Hussein e com a Al-Qaeda;
+> - Fim da Al-Qaeda em 2006 $\Rightarrow$ Líder foi morto e o grupo desmantelado;
+> > [!example]- Guerra da Síria
+> > - 2011 $\Rightarrow$ A guerra civil Síria proporcionou um terreno fértil para a criação do Estado Islâmico:
+> > - EUA $\Rightarrow$ Apoiava a oposição Sunita e enviou armas e recursos para rebeldes;
+> > - Rússia $\Rightarrow$ Apoiava a situação Xiita;
+> > - Estado Islâmico $\Rightarrow$ Se infiltrou na guerra como grupo rebelde da oposição e roubou armas e recursos dos EUA;
+>
+> > [!example]- Estado Islâmico
+> > - Se favoreceu do desmantelamento da Al-Qaeda e do exército iraqueano;
+> > - Se aproveitou da guerra na Síria para roubar suprimentos;
+> > - Controle de grande parte do Iraque e Síria:
+> >     - 2ª cidade do Iraque $\Rightarrow$ Petróleo e formação do califado.
+> >     <br>
+>
+> > [!example]- Propaganda e Recrutamento
+> > - Uso das redes sociais:
+> >     - Recrutar combatentes estrangeiros por todo o mundo.
+> >     <br>
+> > - Violência extrema:
+> >     - Atraiu a atenção global e espalhou medo na população.
